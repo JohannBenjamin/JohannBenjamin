@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Olá, eu sou o Johann 👋</h1>
 
-<!--
-**JohannBenjamin/JohannBenjamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+- Tecnólogo em **Análise e Desenvolvimento de Sistemas**, formado na **FATEC-GR**.
+- Focado em desenvolvimento backend usando linguagens como **Java** e **C#**; na área de *IA* usando **Python** e na análise de dados.
+- Contato: [johannduranticona12@gmail.com](mailto:johannduranticona12@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Objetivos:
+- Melhorar meu desempenho na área de backend, aprofundando meus conhecimentos nas linguagens **Java**, **C#** e seus frameworks como *Springboot* e *.NET*
+- Interessado também na área da **Inteligência Artificial** juntamente com o aprendizado em **python**.
+- Desenvolver soluções eficientes e automatizadas, tanto em projetos pessoais quanto profissionais.
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=JohannBenjamin&show_icons=true&theme=default" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohannBenjamin&layout=compact" />
+</p>
+
+---
